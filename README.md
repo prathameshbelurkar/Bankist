@@ -1,6 +1,6 @@
 # Bankist
 
-![Click Here](https://prathameshbelurkar.github.io/Bankist/)
+[Click Here](www.github.com)
 
 ## Login Credentials 👇
 
